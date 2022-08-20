@@ -1,6 +1,5 @@
 <?php 
   echo "\n\n=======================================================\n\n";
-  
   final class Multiplication {
     private $number;
     private $table;
@@ -33,5 +32,6 @@
 
   $multiplication = new Multiplication(17, 10);
   $multiplication->getMultiplication();
+  
   echo "\n\n=======================================================\n\n";
 ?>
