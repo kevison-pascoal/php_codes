@@ -1,6 +1,5 @@
 <?php 
   echo "\n\n=======================================================\n\n";
-  
   final class Library {
     private $name;
     private $type;
